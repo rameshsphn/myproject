@@ -6,3 +6,5 @@ Print(96/2)
 #today LAb is DEVOPS
 print(3+6)
 #Added Numbers
+print("hello CSE 3b")
+#B

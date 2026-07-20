@@ -8,3 +8,5 @@ print(3+6)
 #Added Numbers
 print("hello CSE 3b")
 #B
+print("hello how are CSE3B")
+#fine
